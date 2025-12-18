@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+
+# Video or large files (optional, if you store raw videos)
+*.mp4
+*.mkv
+*.avi
+*.mov
