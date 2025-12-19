@@ -29,3 +29,4 @@ dist/
 *.mkv
 *.avi
 *.mov
+tests
